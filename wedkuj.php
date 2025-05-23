@@ -71,7 +71,7 @@ if ($conn->connect_error) {
             </tbody>
         </table>
     </div>
-    <div class="stopka">Stronę wykonywal:00000000</div>
+    <div class="stopka">vika</div>
 
 </body>
 
